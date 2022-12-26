@@ -1,0 +1,9 @@
+body{
+    background-color: black;
+}
+.contain{
+    justify-content: center;
+    text-align: center;
+    padding: 20%;
+    color: aliceblue;
+}
